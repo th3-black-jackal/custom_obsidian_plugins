@@ -1,0 +1,9 @@
+{
+  "id": "zotero-item-metadata",
+  "name": "Zotero Item Metadata",
+  "version": "1.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "Search your Zotero library and insert an item's title, date, publisher, DOI and authors into the current note.",
+  "author": "Abdelnasser Ahmed",
+  "isDesktopOnly": true
+}
