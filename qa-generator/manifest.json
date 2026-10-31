@@ -1,0 +1,9 @@
+{
+  "id": "qa-generator",
+  "name": "Q&A Generator",
+  "version": "1.2.0",
+  "minAppVersion": "1.4.0",
+  "description": "Reads the current note and generates questions & answers into a new note (QA_<note>) using built-in offline NLP or a local CPU-friendly AI model (Ollama, LM Studio, llama.cpp, GPT4All).",
+  "author": "Abdelnasser Ahmed",
+  "isDesktopOnly": false
+}
